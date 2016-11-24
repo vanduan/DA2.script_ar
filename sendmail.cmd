@@ -1,13 +1,13 @@
 :: This script to send mail
 @echo off
 
-set subject=%1
-set body=%2
+set "subject=Mail alert from active response: %computername%"
+set "body=Detail: Rule id 100612: User run application not allow"
 
 :: Logging it all
 FOR /F "TOKENS=1* DELIMS= " %%A IN ('DATE/T') DO SET DATE=%%B
 FOR /F "TOKENS=1* DELIMS= " %%A IN ('TIME/T') DO SET TIME=%%A
-ECHO %DATE% %TIME% %0 :%1 :%2>> "win_process\log"
+ECHO %DATE% %TIME% - %0 - %1 - %2 >> "..\active-responses.log"
 
 :: Config default for mail
 SET "mserver=smtp.gmail.com:587"
