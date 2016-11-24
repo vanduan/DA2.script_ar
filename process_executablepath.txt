@@ -1,0 +1,11 @@
+C:\WINDOWS\system32\svchost.exe 
+C:\WINDOWS\system32\locator.exe 
+C:\WINDOWS\system32\wbem\wmiprvse.exe 
+C:\WINDOWS\System32\alg.exe 
+C:\WINDOWS\Explorer.EXE 
+C:\WINDOWS\system32\wscntfy.exe 
+C:\Program Files\VMware\VMware Tools\vmtoolsd.exe 
+C:\WINDOWS\system32\wuauclt.exe 
+C:\Program Files\Notepad++\notepad++.exe 
+C:\WINDOWS\system32\cmd.exe 
+C:\Program Files\Windows NT\Pinball\PINBALL.EXE 

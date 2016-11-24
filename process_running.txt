@@ -1,0 +1,14 @@
+svchost.exe
+svchost.exe
+svchost.exe
+locator.exe
+wmiprvse.exe
+alg.exe
+explorer.exe
+wscntfy.exe
+vmtoolsd.exe
+wuauclt.exe
+notepad++.exe
+cmd.exe
+PINBALL.EXE
+tasklist.exe

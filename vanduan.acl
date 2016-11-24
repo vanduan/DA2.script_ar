@@ -1,0 +1,135 @@
+ACL: list full path of program, user vanduan can run it
+
+===============> Program top <========================
+               ---------------
+C:\WINDOWS\system32\svchost.exe
+C:\WINDOWS\system32\locator.exe
+C:\WINDOWS\system32\wbem\wmiprvse.exe
+C:\WINDOWS\System32\alg.exe
+C:\WINDOWS\Explorer.EXe
+C:\WINDOWS\system32\wscntfy.exe
+C:\Program Files\VMware\VMwareTools\vmtoolsd.exe
+C:\WINDOWS\system32\wuauclt.exe
+C:\Program Files\Notepad++\notepad++.exe
+C:\WINDOWS\system32\cmd.exe
+C:\WINDOWS\system32\userinit.exe
+
+===============> Program in C:\Program Files <========================
+               --------------------------------
+C:\Program Files\Common Files\Microsoft Shared\MSInfo\msinfo32.exe
+C:\Program Files\Common Files\Microsoft Shared\Speech\sapisvr.exe
+C:\Program Files\Internet Explorer\iedw.exe
+C:\Program Files\Internet Explorer\IEXPLORE.EXE
+C:\Program Files\Internet Explorer\Connection Wizard\icwconn1.exe
+C:\Program Files\Internet Explorer\Connection Wizard\icwconn2.exe
+C:\Program Files\Internet Explorer\Connection Wizard\icwrmind.exe
+C:\Program Files\Internet Explorer\Connection Wizard\icwtutor.exe
+C:\Program Files\Internet Explorer\Connection Wizard\inetwiz.exe
+C:\Program Files\Internet Explorer\Connection Wizard\isignup.exe
+C:\Program Files\Messenger\msmsgs.exe
+C:\Program Files\MovieMaker\moviemk.exe
+C:\Program Files\Mozilla Firefox\crashreporter.exe
+C:\Program Files\Mozilla Firefox\firefox.exe
+C:\Program Files\Mozilla Firefox\maintenanceservice.exe
+C:\Program Files\Mozilla Firefox\maintenanceservice_installer.exe
+C:\Program Files\Mozilla Firefox\plugin-container.exe
+C:\Program Files\Mozilla Firefox\plugin-hang-ui.exe
+C:\Program Files\Mozilla Firefox\updater.exe
+C:\Program Files\Mozilla Firefox\wow_helper.exe
+C:\Program Files\Mozilla MaintenanceService\maintenanceservice.exe
+C:\Program Files\MSN\MSNCoreFiles\Install\msnsusii.exe
+C:\Program Files\MSN\MSNCoreFiles\Install\MSN9Components\Digcore.exe
+C:\Program Files\MSN\MSNCoreFiles\Install\MSN9Components\Msncli.exe
+C:\Program Files\MSN\MsnInstaller\msninst.exe
+C:\Program Files\NetMeeting\cb32.exe
+C:\Program Files\NetMeeting\conf.exe
+C:\Program Files\NetMeeting\wb32.exe
+C:\Program Files\Notepad++\notepad++.exe
+C:\Program Files\Notepad++\uninstall.exe
+C:\Program Files\Notepad++\updater\gpup.exe
+C:\Program Files\Notepad++\updater\GUP.exe
+C:\Program Files\Outlook Express\msimn.exe
+C:\Program Files\Outlook Express\oemig50.exe
+C:\Program Files\Outlook Express\setup50.exe
+C:\Program Files\Outlook Express\wab.exe
+C:\Program Files\Outlook Express\wabmig.exe
+C:\Program Files\VMware\VMwareTools\guestproxycerttool.exe
+C:\Program Files\VMware\VMwareTools\openssl.exe
+C:\Program Files\VMware\VMwareTools\rpctool.exe
+C:\Program Files\VMware\VMwareTools\rvmSetup.exe
+C:\Program Files\VMware\VMwareTools\TPAutoConnect.exe
+C:\Program Files\VMware\VMwareTools\TPAutoConnSvc.exe
+C:\Program Files\VMware\VMwareTools\TPVCGateway.exe
+C:\Program Files\VMware\VMwareTools\vmacthlp.exe
+C:\Program Files\VMware\VMwareTools\vmtoolsd.exe
+C:\Program Files\VMware\VMwareTools\VMwareHgfsClient.exe
+C:\Program Files\VMware\VMwareTools\VMwareHostOpen.exe
+C:\Program Files\VMware\VMwareTools\VMwareResolutionSet.exe
+C:\Program Files\VMware\VMwareTools\VMwareToolboxCmd.exe
+C:\Program Files\VMware\VMwareTools\VMwareXferlogs.exe
+C:\Program Files\VMware\VMwareTools\zip.exe
+C:\Program Files\VMware\VMwareTools\VMwareVGAuth\VGAuthCLI.exe
+C:\Program Files\VMware\VMwareTools\VMwareVGAuth\VGAuthService.exe
+C:\Program Files\VMware\VMwareTools\VMwareVGAuth\VMwareAliasImport.exe
+C:\Program Files\Windows Media Player\migrate.exe
+C:\Program Files\Windows Media Player\mplayer2.exe
+C:\Program Files\Windows Media Player\setup_wm.exe
+C:\Program Files\Windows Media Player\wmplayer.exe
+C:\Program Files\Windows NT\Accessories\wordpad.exe
+
+===============> Program in C:\Windows <========================
+               ---------------------------
+C:\Windows\explorer.exe
+C:\Windows\hh.exe
+C:\Windows\NOTEPAD.EXE
+C:\Windows\regedit.exe
+C:\Windows\TASKMAN.EXE
+C:\Windows\twunk_16.exe
+C:\Windows\twunk_32.exe
+C:\Windows\winhelp.exe
+C:\Windows\winhlp32.exe
+
+===============> Program in C:\Windows\Sytem32 <========================
+               ---------------------------------
+C:\WINDOWS\system32\mmc.exe
+C:\WINDOWS\system32\dllcache\calc.exe
+C:\WINDOWS\system32\dllcache\cmd.exe
+C:\WINDOWS\system32\dllcache\hostname.exe
+C:\WINDOWS\system32\dllcache\logoff.exe
+C:\WINDOWS\system32\dllcache\logonui.exe
+C:\WINDOWS\system32\dllcache\mspaint.exe
+C:\WINDOWS\system32\dllcache\notepad.exe
+C:\WINDOWS\system32\dllcache\osk.exe
+C:\WINDOWS\system32\dllcache\ping.exe
+C:\WINDOWS\system32\dllcache\print.exe
+C:\WINDOWS\system32\dllcache\shutdown.exe
+C:\WINDOWS\system32\dllcache\winlogon.exe
+C:\WINDOWS\system32\dllcache\winhelp.exe
+
+===============> Program in C:\Python27 <========================
+               --------------------------
+C:\Python27\python.exe
+C:\Python27\pythonw.exe
+C:\Python27\w9xpopen.exe
+C:\Python27\Lib\distutils\command\wininst-6.0.exe
+C:\Python27\Lib\distutils\command\wininst-7.1.exe
+C:\Python27\Lib\distutils\command\wininst-8.0.exe
+C:\Python27\Lib\distutils\command\wininst-9.0-amd64.exe
+C:\Python27\Lib\distutils\command\wininst-9.0.exe
+C:\Python27\Lib\site-packages\pip\_vendor\distlib\t32.exe
+C:\Python27\Lib\site-packages\pip\_vendor\distlib\t64.exe
+C:\Python27\Lib\site-packages\pip\_vendor\distlib\w32.exe
+C:\Python27\Lib\site-packages\pip\_vendor\distlib\w64.exe
+C:\Python27\Lib\site-packages\setuptools\cli-32.exe
+C:\Python27\Lib\site-packages\setuptools\cli-64.exe
+C:\Python27\Lib\site-packages\setuptools\cli-arm-32.exe
+C:\Python27\Lib\site-packages\setuptools\cli.exe
+C:\Python27\Lib\site-packages\setuptools\gui-32.exe
+C:\Python27\Lib\site-packages\setuptools\gui-64.exe
+C:\Python27\Lib\site-packages\setuptools\gui-arm-32.exe
+C:\Python27\Lib\site-packages\setuptools\gui.exe
+C:\Python27\Scripts\easy_install-2.7.exe
+C:\Python27\Scripts\easy_install.exe
+C:\Python27\Scripts\pip.exe
+C:\Python27\Scripts\pip2.7.exe
+C:\Python27\Scripts\pip2.exe
