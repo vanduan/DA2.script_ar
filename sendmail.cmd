@@ -12,7 +12,7 @@ ECHO %DATE% %TIME% - %0 - %1 - %2 >> "..\active-responses.log"
 :: Config default for mail
 SET "mserver=smtp.gmail.com:587"
 SET "msender=ossec.iuh@gmail.com"
-SET "mpasswd=123@123@123"
+SET "mpasswd=xxxxxxxxxx"
 SET "mto=ossec.iuh@gmail.com"
 
 rem Send mail
